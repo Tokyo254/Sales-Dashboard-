@@ -1,5 +1,5 @@
 # Sales-Dashboard-
-Daily sales data analysis using Powerbi.
+Daily sales data analysis using Powerbi with with well implementated data pipelines to ensure real time reporting of data. Can be accessed from this link https://app.powerbi.com/groups/me/reports/9e90022f-a90d-4222-9b9c-334d3e0b2154?pbi_source=desktop.
 Dashboard displays daily product sales per category, sales rep, brand,customer and the sales value.
 Combines a blend of various tabs used to provide more information about the company´s progress.
 ## Summary Page
