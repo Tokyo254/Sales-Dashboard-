@@ -1,7 +1,9 @@
 # Sales-Dashboard-
-Daily sales data analysis using Powerbi with well implementated data pipelines to ensure real time reporting of data. Can be accessed from this link https://app.powerbi.com/groups/me/reports/9e90022f-a90d-4222-9b9c-334d3e0b2154?pbi_source=desktop.
-Dashboard displays daily product sales per category, sales rep, brand,customer and the sales value.
-Combines a blend of various tabs used to provide more information about the company´s progress.
+
+## About
+
+A daily sales reporting dashboard covering sales by product category, sales representative, brand, and customer. Summary views compare year-to-date and month-to-date performance and report gross profit.
+
 ## Summary Page
 Displays general summary of total business performance i.e Year to date comparison for previous year and current year, Month to date comparison for former and current year, lastweeks sales for previous and current year and total Gross Profit.
 ![Screenshot 2024-07-17 162433](https://github.com/user-attachments/assets/04af6429-abcc-45a6-9994-9d547dd01c20)
@@ -20,3 +22,5 @@ Carrefour
 ![Screenshot 2024-07-17 163410](https://github.com/user-attachments/assets/fbc29bba-baea-4a9f-996d-33250c0b19bb)
 Naivas
 ![Screenshot 2024-07-17 163458](https://github.com/user-attachments/assets/bd24e1da-6f18-4763-ac36-ba11a78191ee)
+
+
